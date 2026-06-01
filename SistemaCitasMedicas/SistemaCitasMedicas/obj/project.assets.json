@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\enyer\\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\\Documentos\\C#\\SistemaCitasMedicas\\SistemaCitasMedicas\\SistemaCitasMedicas\\SistemaCitasMedicas.csproj",
+      "projectUniqueName": "C:\\Proyectos\\SistemaCitasMedicas\\SistemaCitasMedicas\\SistemaCitasMedicas\\SistemaCitasMedicas.csproj",
       "projectName": "SistemaCitasMedicas",
-      "projectPath": "C:\\Users\\enyer\\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\\Documentos\\C#\\SistemaCitasMedicas\\SistemaCitasMedicas\\SistemaCitasMedicas\\SistemaCitasMedicas.csproj",
+      "projectPath": "C:\\Proyectos\\SistemaCitasMedicas\\SistemaCitasMedicas\\SistemaCitasMedicas\\SistemaCitasMedicas.csproj",
       "packagesPath": "C:\\Users\\enyer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\enyer\\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\\Documentos\\C#\\SistemaCitasMedicas\\SistemaCitasMedicas\\SistemaCitasMedicas\\obj\\",
+      "outputPath": "C:\\Proyectos\\SistemaCitasMedicas\\SistemaCitasMedicas\\SistemaCitasMedicas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
