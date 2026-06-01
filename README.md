@@ -87,7 +87,8 @@ SistemaCitasMedicas.UI/
 
 Al iniciar la aplicación, se muestra el **Panel Clínico Principal** con un menú lateral que da acceso a todos los módulos del sistema.
 
-> 📸 _[Captura de pantalla: Vista del panel principal con el menú lateral y el mensaje de bienvenida]_
+<img width="1141" height="833" alt="image" src="https://github.com/user-attachments/assets/f21b9096-25d1-4983-a70d-19751032e7c8" />
+
 
 **Módulos disponibles en el menú lateral:**
 - 🩺 **Especialidades** — Gestión del catálogo de especialidades médicas.
@@ -110,7 +111,7 @@ Antes de registrar médicos, es necesario configurar las especialidades disponib
 3. Opcionalmente, agrega una **descripción**.
 4. Haz clic en **Registrar Especialidad**.
 
-> 📸 _[Captura de pantalla: Formulario de especialidades con la lista de especialidades registradas]_
+<img width="1136" height="830" alt="image" src="https://github.com/user-attachments/assets/d2f59b95-169b-4db2-ab67-973f695b0836" />
 
 > [!NOTE]
 > Los nombres de especialidades deben ser únicos. El sistema rechazará duplicados automáticamente.
@@ -128,7 +129,7 @@ Con las especialidades registradas, puedes agregar los médicos de la clínica.
 3. Los campos de **Teléfono** y **Email** son opcionales.
 4. Haz clic en **Registrar Médico**.
 
-> 📸 _[Captura de pantalla: Formulario de médicos con el ComboBox de especialidades desplegado y la grilla de médicos registrados]_
+<img width="1136" height="827" alt="image" src="https://github.com/user-attachments/assets/6207a020-abfa-4dc6-9115-f57e5c6d7ca2" />
 
 > [!NOTE]
 > Si aún no hay especialidades registradas, el sistema mostrará una advertencia al abrir este formulario.
@@ -147,7 +148,7 @@ Registra los pacientes de la clínica para poder asignarles citas.
    - **Fecha de Nacimiento** (debe ser una fecha en el pasado)
 3. Haz clic en **Registrar Paciente**.
 
-> 📸 _[Captura de pantalla: Formulario de pacientes con los campos llenados y la grilla con pacientes registrados]_
+<img width="1133" height="831" alt="image" src="https://github.com/user-attachments/assets/041783c8-5744-4d16-8a83-2921b04bf7b7" />
 
 > [!NOTE]
 > Todos los campos son obligatorios para los pacientes. El sistema validará el formato del email y el teléfono antes de guardar.
@@ -166,7 +167,7 @@ Con pacientes y médicos registrados, puedes programar citas médicas.
 6. Opcionalmente, escribe el **Motivo** de la consulta (máximo 500 caracteres).
 7. Haz clic en **Confirmar Agendamiento**.
 
-> 📸 _[Captura de pantalla: Formulario de agendamiento con paciente, médico, fecha y hora seleccionados]_
+<img width="1137" height="833" alt="image" src="https://github.com/user-attachments/assets/a4bca08c-4eeb-4742-8c95-f6551499544c" />
 
 > [!IMPORTANT]
 > El sistema **bloqueará automáticamente** citas si:
@@ -183,15 +184,7 @@ Gestiona las citas existentes desde el módulo de consulta.
 
 #### Ver todas las citas
 
-> 📸 _[Captura de pantalla: Listado de todas las citas activas con estados, médicos y pacientes]_
-
-#### Filtrar por Paciente o Médico
-
-- Selecciona un **Paciente** del combo y haz clic en **Filtrar** para ver solo sus citas.
-- Selecciona un **Médico** del combo y haz clic en **Filtrar** para ver la agenda del médico.
-- Haz clic en **Ver Todas** para limpiar los filtros.
-
-> 📸 _[Captura de pantalla: Vista con las citas filtradas por un paciente específico]_
+<img width="1140" height="832" alt="image" src="https://github.com/user-attachments/assets/029daeae-8e81-47b7-ad9e-2066a26ec875" />
 
 #### Cancelar una Cita
 
@@ -199,7 +192,7 @@ Gestiona las citas existentes desde el módulo de consulta.
 2. Haz clic en **❌ Cancelar Cita**.
 3. Confirma la cancelación en el diálogo que aparece.
 
-> 📸 _[Captura de pantalla: Diálogo de confirmación de cancelación de cita]_
+<img width="1131" height="826" alt="image" src="https://github.com/user-attachments/assets/60f26419-8872-4536-819c-8acc736999dc" />
 
 #### Reprogramar una Cita
 
@@ -208,7 +201,7 @@ Gestiona las citas existentes desde el módulo de consulta.
 3. En el formulario emergente, selecciona la **nueva fecha** y la **nueva hora**.
 4. Haz clic en **Guardar**.
 
-> 📸 _[Captura de pantalla: Formulario de reprogramación con la nueva fecha y hora seleccionadas]_
+<img width="1137" height="825" alt="image" src="https://github.com/user-attachments/assets/31381b84-8086-4bea-a78c-ce0db2a8f0ce" />
 
 > [!NOTE]
 > No es posible reprogramar citas que ya han sido canceladas. El sistema mostrará un aviso.
